@@ -27,3 +27,4 @@
 * **¿Cómo resolvieron los conflictos?** Utilizando Git Flow estricto: cada integrante trabajó en su rama y solo se fusionó a main mediante Pull Requests revisados.
 <img width="433" height="286" alt="red-git png" src="https://github.com/user-attachments/assets/73299dd6-c78e-4aff-a662-86e671994bec" />
 <img width="1702" height="833" alt="trello png" src="https://github.com/user-attachments/assets/661d4f61-d388-4f1c-8066-a1df0a7eaa3c" />
+

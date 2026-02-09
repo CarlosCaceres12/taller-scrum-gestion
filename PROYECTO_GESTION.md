@@ -1,7 +1,7 @@
 # Documento de Gestión Maestro
 
 ## Sección 1: Planificación
-* **Integrantes:** Carlos Caceres (Simulando Roles A, B, C)
+* **Integrantes:** Carlos Caceres (Omar,Pedro Roles A, B, C)
 * **Tablero Trello:** [[PEGA AQUÍ TU LINK DE TRELLO]](https://trello.com/b/PQOMQSw9/taller-scrum)
 * **Estado:** Inicio del Sprint.
 
